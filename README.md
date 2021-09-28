@@ -1,0 +1,2 @@
+# EjercicioPHP
+ Prueba tecniva php
